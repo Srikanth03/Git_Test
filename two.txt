@@ -1,1 +1,1 @@
-new lines are adding to two.txt
+modifying the existing file new lines are adding to two.txt
